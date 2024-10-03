@@ -1,4 +1,4 @@
-This web-based calculator utilizes HTML, CSS, and JavaScript. It supports basic arithmetic, negative, and decimal operations and functions similalrly to that of an Apple brand calculator. 
+This web-based calculator utilizes HTML, CSS, and JavaScript. It supports basic arithmetic, negative, and decimal operations and functions similarly to that of an Apple brand calculator. 
 
 The HTML and CSS structure for this site is fairly simple. It features: 
   one outer div for the outer calculator box and six inner divs for each row
